@@ -2,5 +2,5 @@ import streamlit as st
 
 st.title("テストページ")
 st.write("これはテストページです。")
-st.write("オワタ\(^^)/")
+st.write("hello world")
 
